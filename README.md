@@ -6,9 +6,9 @@
 
 ### 701.1 Modern Software Development
 
-WebSite | URL
-------- | ---
-The Twelve-Factor APP | https://12factor.net/
+WebSite | URL | Video
+------- | --- | ----- 
+The Twelve-Factor APP | https://12factor.net/ | 
 Martin Fowler - Enterprise Application  |  https://martinfowler.com/bliki/EnterpriseApplication.html
 Martin Fowler - Microservices  |  https://martinfowler.com/articles/microservices.html
 Martin Fowler - Immutable Server|  https://martinfowler.com/bliki/ImmutableServer.html
